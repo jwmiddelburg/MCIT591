@@ -1,11 +1,11 @@
 
 public class ChessPiece {
 	String color;
-	String type;
+	String pieceType;
 	
 	public ChessPiece(String color, String type) {
 		this.color = color;
-		this.type = type;
+		this.pieceType = type;
 	}
 	
 }
